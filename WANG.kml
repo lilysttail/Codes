@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>WANG.kml</name>
+	<open>1</open>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66092997242809,37.89384199034043,30 -80.66096712859944,37.89379698331057,30 -80.66087146753006,37.89375479500361,30 -80.66084005062704,37.8938075643348,30 -80.66092997242809,37.89384199034043,30 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66090492128842,37.89389158780833,32 -80.66092647326548,37.89384972686442,32 -80.66083886720423,37.89381394033219,32 -80.66080866842393,37.89385258745313,32 -80.66090492128842,37.89389158780833,32 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66087759727964,37.8939329769682,35 -80.66090835710753,37.8938979767096,35 -80.66080749521817,37.89385668515619,35 -80.66078310725456,37.8938871465437,35 -80.66087759727964,37.8939329769682,35 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66084447669701,37.89397936224493,31 -80.66087352478652,37.89393980055734,31 -80.66078653079491,37.89389626940158,31 -80.66075862316264,37.89393902390239,31 -80.66084447669701,37.89397936224493,31 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66080494723424,37.89403848828863,28 -80.66084954035269,37.89400899466799,28 -80.66084271981941,37.89398482539431,28 -80.6607672350537,37.89394998399178,28 -80.66072370269201,37.89400044112055,28 -80.66080494723424,37.89403848828863,28 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66076396249977,37.89416459286736,32 -80.66080410615645,37.89409726664933,32 -80.66074358681607,37.89407294731456,32 -80.66069676781611,37.89408375243738,32 -80.6606722549854,37.89414200902027,32 -80.66076396249977,37.89416459286736,32 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66064969384554,37.89428001232369,33 -80.66065172670434,37.89421303531805,33 -80.66061769034496,37.89420610520979,33 -80.66057064418027,37.89426748840329,33 -80.66064969384554,37.89428001232369,33 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66056458848897,37.89446887531044,26 -80.66059154821865,37.89438009608272,26 -80.66050956843803,37.89437713289144,26 -80.66046819385775,37.89446131513593,26 -80.66046761644786,37.89446131352111,26 -80.66056458848897,37.89446887531044,26 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66037669241766,37.89439270938063,29 -80.66040868735473,37.89433994175616,29 -80.660259122139,37.89434316864865,29 -80.66030164358587,37.89438930976559,29 -80.66037669241766,37.89439270938063,29 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66029240504361,37.89438928391582,26 -80.66025044872536,37.89434587835709,26 -80.6601764175504,37.89437301104682,26 -80.6602495539349,37.8944165038823,26 -80.66029240504361,37.89438928391582,26 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6602048681718,37.89446650192511,31 -80.66024549159499,37.8944210491636,31 -80.66017004557442,37.89437754985707,31 -80.66012883856868,37.89442436795835,31 -80.6602048681718,37.89446650192511,31 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66015741409355,37.89449006365435,28 -80.66019677010701,37.89446966891082,28 -80.66012707152511,37.89443210930953,28 -80.66007846669507,37.89445475645637,28 -80.66007201686071,37.89447661029892,28 -80.66015741409355,37.89449006365435,28 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66014733185339,37.89454927182675,35 -80.66015219692422,37.89449460569551,35 -80.66005409871673,37.89448066110849,35 -80.66002955857326,37.89454484111359,35 -80.66014733185339,37.89454927182675,35 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66013767540331,37.89464220041398,34 -80.66015018612462,37.89455657045013,34 -80.66001741246295,37.89454936374926,34 -80.66001179359233,37.89464321499023,34 -80.66013767540331,37.89464220041398,34 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66028209299863,37.89465066969457,30 -80.66028235304795,37.89459280099107,30 -80.66015421899488,37.89458105078815,30 -80.66014643403888,37.89464299943678,30 -80.66028209299863,37.89465066969457,30 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66028467292685,37.89459052916285,26 -80.66028945600834,37.89455408937079,26 -80.66019654820316,37.89454152642592,26 -80.6601906061447,37.89457887430693,26 -80.66028467292685,37.89459052916285,26 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66029063745324,37.89454816903672,34 -80.6603017433611,37.89451812624579,34 -80.66022672508818,37.89450789169491,34 -80.66022195631716,37.89454114187168,34 -80.66029063745324,37.89454816903672,34 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6603052385362,37.89451130105635,34 -80.66032795609701,37.89446716515278,34 -80.66026624287004,37.89445149986916,34 -80.66023425599265,37.89450244479486,34 -80.6603052385362,37.89451130105635,34 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66054670098679,37.89461851356721,29 -80.6605457028477,37.8945543209418,29 -80.66043840758584,37.89454447544082,29 -80.66043191992945,37.89458582651553,29 -80.66054670098679,37.89461851356721,29 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66053871625522,37.89468152475766,33 -80.66057265150813,37.89462914669409,33 -80.66042692944175,37.89459015853024,33 -80.6603974854843,37.89467128540333,33 -80.66053871625522,37.89468152475766,33 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66076977590401,37.89471184857745,27 -80.66082267462636,37.89461063674229,27 -80.66064850679959,37.89460394215282,27 -80.66061008022783,37.89469688367627,27 -80.66076977590401,37.89471184857745,27 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6608072041129,37.89460669858433,30 -80.6608087010584,37.89455668346153,30 -80.66070639622261,37.89454920111496,30 -80.66066547442352,37.89459882247285,30 -80.6608072041129,37.89460669858433,30 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66082916200259,37.89455353283679,26 -80.66082666643246,37.89447634415536,26 -80.66077227026778,37.89447791957693,26 -80.66077177130222,37.89449918584769,26 -80.66071288370907,37.89449918597007,26 -80.66071238460069,37.89447831352201,26 -80.66067495605753,37.89447791976389,26 -80.66067545521587,37.89452399667823,26 -80.66070739431662,37.89454447525416,26 -80.66082916200259,37.89455353283679,26 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66065998459524,37.89445744115224,29 -80.66069292148491,37.89437552656025,29 -80.66059959975298,37.89437749576869,29 -80.66057614466413,37.89445704741363,29 -80.66065998459524,37.89445744115224,29 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66079672346098,37.89444444483103,29 -80.66076678037682,37.89437119439317,29 -80.66070439955706,37.89437513271722,29 -80.6606694664939,37.89445901641847,29 -80.66079672346098,37.89444444483103,29 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66083814437035,37.89444444471319,33 -80.66086658967487,37.89435465363957,33 -80.66077276892193,37.89436607471327,33 -80.66080321107232,37.89444444481367,33 -80.66083814437035,37.89444444471319,33 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66102329277612,37.89470751572874,30 -80.66102429062988,37.89467679775708,30 -80.6609075131567,37.89466734651732,30 -80.66084163898493,37.89471972478486,30 -80.66085810776698,37.89475359328203,30 -80.66102329277612,37.89470751572874,30 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66105074018429,37.89467167798095,35 -80.66105123875049,37.89461024206461,35 -80.66091050713301,37.89461181790484,35 -80.66090701407721,37.8946618330402,35 -80.66105074018429,37.89467167798095,35 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66105024059408,37.89460591005061,28 -80.661052735048,37.89450272923941,28 -80.66094943223301,37.89450312349862,28 -80.66090950900183,37.89460512298127,28 -80.66105024059408,37.89460591005061,28 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66108866583359,37.89442120836672,35 -80.66095991177008,37.89442593478014,35 -80.6609494322219,37.89449721620271,35 -80.66108267787401,37.89449721561934,35 -80.66108866583359,37.89442120836672,35 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66111379749603,37.89441718501052,32 -80.66111329995724,37.8943579117478,32 -80.66097402169243,37.89435320138502,32 -80.66096606293316,37.89441718509446,32 -80.66111379749603,37.89441718501052,32 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66111777673531,37.89435123859301,34 -80.66112374571971,37.89430099369398,34 -80.66098645724007,37.89429157289066,34 -80.66096755520842,37.89434809838514,34 -80.66111777673531,37.89435123859301,34 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66119139508534,37.89429903090306,30 -80.66119885631458,37.89426252483808,30 -80.66114513468764,37.89423269203466,30 -80.6610222715735,37.89422405631687,30 -80.66098894436142,37.89428489973886,30 -80.66119139508534,37.89429903090306,30 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66114712431853,37.8942275889323,30 -80.66114961133339,37.89418990527033,30 -80.66117696941835,37.89416242755848,30 -80.66107947481571,37.89409844397867,30 -80.66103669670251,37.89415771726365,30 -80.66102973285162,37.89421856067981,30 -80.66114712431853,37.8942275889323,30 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66120482504137,37.89417067080053,33 -80.6612540695573,37.89412788403589,33 -80.66112225288578,37.8940430960472,33 -80.66107997224287,37.89409255589525,33 -80.66120482504137,37.89417067080053,33 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6612605359945,37.89412003325856,31 -80.66129237080821,37.89409294804523,31 -80.66115756961111,37.89400187949064,31 -80.66112523739775,37.89403838558628,31 -80.6612605359945,37.89412003325856,31 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66129734499519,37.89408784503577,34 -80.66135106613338,37.89402817906803,34 -80.66120134242534,37.89395673751061,34 -80.66115856443778,37.89399677649632,34 -80.66129734499519,37.89408784503577,34 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6613043084584,37.89400187908019,32 -80.6613595218636,37.89395987733021,32 -80.66136300366638,37.89393475487464,32 -80.66129137505517,37.8938876505179,32 -80.66121029593921,37.89395281204592,32 -80.6613043084584,37.89400187908019,32 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66135902426241,37.89392494143026,26 -80.66149979412903,37.89392533339254,26 -80.66142567774878,37.89378480492678,26 -80.66129535437629,37.89388058481799,26 -80.66135902426241,37.89392494143026,26 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6607382701975,37.89427550202386,26 -80.66072533747278,37.89420602272457,26 -80.66066166746697,37.89421740619557,26 -80.66066067231856,37.89428138994131,26 -80.6607382701975,37.89427550202386,26 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66083278037962,37.89425823047006,32 -80.66077806418119,37.89418953621773,32 -80.66073578333767,37.89420209736343,32 -80.6607472237671,37.89428296026393,32 -80.66083278037962,37.89425823047006,32 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6608342727468,37.89424998717775,26 -80.66090042989394,37.8941860034875,26 -80.66081487351209,37.89415891827651,26 -80.66078353590848,37.89418561083095,26 -80.6608342727468,37.89424998717775,26 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66089993240546,37.89418129299126,26 -80.66093077254273,37.89412633764806,26 -80.66083327811447,37.89410592559163,26 -80.6608213399136,37.89415538539279,26 -80.66089993240546,37.89418129299126,26 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66092729061069,37.89412084214642,28 -80.66095713586616,37.89407962561705,28 -80.66091535256017,37.89406353154205,28 -80.66088202532768,37.89411102866219,28 -80.66092729061069,37.89412084214642,28 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66095763328691,37.89407452262351,28 -80.66098101204147,37.89404783002713,28 -80.66091236808087,37.89401171650279,28 -80.66089247124394,37.89404704492697,28 -80.66095763328691,37.89407452262351,28 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6609755404168,37.89403801657001,32 -80.66100638044372,37.89400151052186,32 -80.66095415136388,37.8939771731628,32 -80.66092331132225,37.89401053889313,32 -80.6609755404168,37.89403801657001,32 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66101334432655,37.89399954782666,34 -80.66104318949316,37.89396578952172,34 -80.66095763330995,37.89391672228345,34 -80.66091883456046,37.89395165817533,34 -80.66101334432655,37.89399954782666,34 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66104318948859,37.89396068652921,34 -80.66106607074855,37.89392575061618,34 -80.66098698105256,37.89388060877256,34 -80.66096260750868,37.89391358197674,34 -80.66104318948859,37.89396068652921,34 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6610730346182,37.89392496553405,29 -80.66110536681178,37.89389002961055,29 -80.66103373840868,37.89383389672219,29 -80.66101185198164,37.89383389673072,29 -80.66097852492821,37.89386961770607,29 -80.6610730346182,37.89392496553405,29 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66125924327388,37.89423895416452,31 -80.66136784540555,37.89415024410322,31 -80.66129607916623,37.89409661710273,31 -80.66119128761679,37.89419084016429,31 -80.66125924327388,37.89423895416452,31 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66139578964686,37.89398485234913,31 -80.66149931070234,37.89398485222542,31 -80.66149740531691,37.8939292204392,31 -80.66136784529952,37.89392771702896,31 -80.66136721021364,37.8939638025075,31 -80.66139578964686,37.89398485234913,31 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66141103209043,37.89404599715293,31 -80.66151010757042,37.89404699943645,31 -80.6615037564444,37.89399086649272,31 -80.66139515456138,37.89399337253303,31 -80.66141103209043,37.89404599715293,31 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66142627453495,37.89411315623063,28 -80.66155901030884,37.89411065010606,28 -80.66152598498192,37.89405000654301,28 -80.6614097618867,37.89405251262688,28 -80.66142627453495,37.89411315623063,28 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66151709415102,37.89424446708072,35 -80.66158123932209,37.8942189064104,35 -80.6615647264057,37.89411716543523,35 -80.661431990463,37.89411666448915,35 -80.6614351660163,37.89416828676387,35 -80.66151709415102,37.89424446708072,35 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66145929999543,37.89427002769638,31 -80.66150502722218,37.89424346472573,31 -80.66143135543099,37.89417179507257,31 -80.66138245272992,37.89420637701527,31 -80.66145929999543,37.89427002769638,31 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6614154780862,37.89432315355116,26 -80.66146692123316,37.89428556448468,26 -80.66137800702847,37.89420938413888,26 -80.66131576719783,37.89426000402575,26 -80.6614154780862,37.89432315355116,26 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66128909288481,37.89442740048793,35 -80.66135387329666,37.89437226991828,35 -80.66126813462313,37.89431463340917,35 -80.66120970520853,37.89437577818512,35 -80.66128909288481,37.89442740048793,35 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66124717608302,37.89448152864869,32 -80.66128337696098,37.89443441710188,32 -80.66120398928089,37.89438329598291,32 -80.66115254585742,37.89446148106914,32 -80.66124717608302,37.89448152864869,32 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6612370143709,37.89453916513256,34 -80.66124971648249,37.8944895476398,34 -80.66114619482187,37.8944664929281,34 -80.66113158728186,37.89453264957429,34 -80.6612370143709,37.89453916513256,34 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66126622905034,37.89462486814783,30 -80.66124018987482,37.89454868769142,30 -80.66112333092076,37.89453916499078,30 -80.66112015499606,37.89467298197241,30 -80.66126622905034,37.89462486814783,30 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6616558758449,37.89443088238318,27 -80.66159554063154,37.89428754301675,27 -80.66151361268507,37.89434668329004,27 -80.66158664973368,37.89445544072136,27 -80.6616558758449,37.89443088238318,27 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66152123414132,37.89444341236067,33 -80.66155870512041,37.89442186125233,33 -80.66150853188958,37.8943526975433,33 -80.66146343977529,37.89441183766635,33 -80.66152123414132,37.89444341236067,33 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66148220427583,37.89447964645984,34 -80.66151713485419,37.89444857281231,34 -80.66145997557689,37.89441699811241,34 -80.66141678868831,37.89446511210803,34 -80.66148220427583,37.89447964645984,34 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66147712353765,37.89452525447646,29 -80.66147966387837,37.89448566070612,29 -80.6614110727724,37.89447112635487,29 -80.6613932899471,37.89452876285826,29 -80.66147712353765,37.89452525447646,29 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<snippet></snippet>
+		<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>GENERIC BUILDING</Type>
+<Note>SOUTH WARD</Note>
+<Serial></Serial>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>2</gx:drawOrder>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.66151014909502,37.89459491942205,28 -80.66151014892363,37.89452926392735,28 -80.66138820912752,37.89453427591592,28 -80.66139138470956,37.89460694801509,28 -80.66151014909502,37.89459491942205,28 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
